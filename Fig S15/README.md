@@ -1,0 +1,1 @@
+Note: in addition to common packages, this Jupyter notebook requires [larch](https://github.com/xraypy/xraylarch). 

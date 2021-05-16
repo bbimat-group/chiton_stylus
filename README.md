@@ -7,7 +7,8 @@ Please direct correspondence to DJ @ d-joester@northwestern.edu
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-Data, including images, is licensed under the
+Except where stated otherwise, 
+data, including images, is licensed under the
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
@@ -18,4 +19,5 @@ Data, including images, is licensed under the
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-Code is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0).
+Except where stated otherwise, 
+code is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0).

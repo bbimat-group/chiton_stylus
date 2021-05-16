@@ -1,0 +1,10 @@
+,min,max,vary,expr
+peak1_amplitude,0,20,True,
+peak1_center,7110.5,7112,True,
+peak1_sigma,0.5,20,True,
+peak2_amplitude,0,20,True,
+peak2_center,7112.1,7113.1,True,
+peak2_sigma,0.5,20,True,
+peak3_amplitude,0,20,True,
+peak3_center,7113.3,7114.3,True,
+peak3_sigma,-inf,inf,False,sig2
