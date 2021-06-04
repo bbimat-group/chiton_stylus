@@ -25,7 +25,7 @@ fn_inp = {'Fig3_B_processed.csv','Fig3_C_processed.csv','Fig3_D_processed.csv','
 fn_out = 'Fig3B-H';
 
 % flags for output
-save_figure = true; 
+save_figure = false; 
 
 % set current folder to folder containing the script
 mfile_name          = mfilename('fullpath');
