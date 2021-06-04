@@ -7,7 +7,7 @@
 % 
 % by Linus Stegbauer, E. Ercan Alp, Paul J. M. Smeets, Robert Free, Shay G. Wallace, Mark C. Hersam, and Derk Joester* 
 %
-% DOI:
+% DOI: https://doi.org/10.1073/pnas.2020160118
 % 
 % This script plots data underlying Figure S7
 %
